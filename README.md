@@ -64,3 +64,4 @@ This analysis aims to explore the electric vehicle (EV) market, focusing on key 
 - **Dataset:** Electric Vehicle Data (Details TBD)  
 
 Feel free to explore the Tableau dashboard for an interactive view of the analysis!
+https://public.tableau.com/app/profile/sidarth.roy/viz/EVAnalysis_17347123963350/Dashboard1?publish=yes
